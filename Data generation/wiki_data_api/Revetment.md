@@ -1,0 +1,31 @@
+# Revetment
+
+A revetment in stream restoration, river engineering or coastal engineering is a facing of impact-resistant material (such as stone, concrete, sandbags, or wooden piles) applied to a bank or wall in order to absorb the energy of incoming water and protect it from erosion.  River or coastal revetments are usually built to preserve the existing uses of the shoreline and to protect the slope.
+
+In architecture generally, it means a retaining wall. In military engineering it is a structure formed to secure an area from artillery, bombing, or stored explosives.
+
+Many revetments are used to line the banks of freshwater rivers, lakes, and man-made reservoirs, especially to prevent damage during periods of floods or heavy seasonal rains (see riprap).  Many materials may be used: wooden piles, loose-piled boulders or concrete shapes, or more solid banks.
+
+Concrete revetments are the most common type of infrastructure used to control the Mississippi River.  More than 1,000 miles (1,600 km) of concrete matting has been placed in river bends between Cairo, Illinois and the Gulf of Mexico to slow the natural erosion that would otherwise frequently change small parts of the river's course.
+
+Revetments are used as a low-cost solution for coastal erosion defense in areas where crashing waves may otherwise deplete the coastline.
+
+Wooden revetments are made of planks laid against wooden frames so that they disrupt the force of the water. Although once popular, the use of wooden revetments has largely been replaced by modern concrete-based defense structures such as tetrapods. In the 1730s, wooden revetments protecting dikes in the Netherlands were phased out due to the spread of shipworm infestations.
+
+Dynamic revetments use gravel or cobble-sized rocks to mimic a natural cobble beach for the purpose of reducing wave energy and stopping or slowing coastal erosion.
+
+Unlike solid structures, dynamic revetments are designed to allow wave action to rearrange the stones into an equilibrium profile, disrupting wave action and dissipating wave energy as the cobbles move. This can reduce the wave reflection which often contributes to beach scouring.
+
+Revetments function as wave breakers, working to dissipate forces from oncoming waters. Their gradual slope gives waves a surface off which to partially reflect. Depending on the slope and material of a revetment, the force of the water it reflects can vary. Impermeable revetments are especially prone to harsh reflection forces. Steep revetments can also lead to more intense clashes with rough waters, becoming more of a seawall than a slope. This also can create an intense backwash that strips sediment from the foot of a revetment, exposing it to the elements. Frequent high-energy wave impacts coupled with this backwash can eventually lead to scouring.
+
+Scouring is the exposure and breakage of a part of a revetment, also known as toe scour when the breakage occurs at the foot of a structure, or overtopping scour when the breakage occurs due to overflowing water levels over the revetment's crest.
+
+Revetments are often designed to either slow, halt, or reverse the process of coastal erosion. However, in some scenarios, often caused by poor design or extreme external factors like hurricanes and aggressive storms, revetments can seriously affect the erosion processes of neighboring shorelines. Due to the revetment resisting longshore sediment transport, the structure may trigger updrift accretion and downdrift erosion. This means that the nearest updrift shoreline disconnected to the revetment will accumulate sediment. Since the revetment is preventing this sediment from being shifted downdrift, the shoreline beyond the end of the revetment will begin to erode excessively.
+
+Revetments can impact local wildlife in a number of ways. When it comes to vegetation, revetments will often seriously alter the makeup of nearby dunes and their plants. This effect is often unpredictable. In some cases, revetments have been credited with allowing plant species to evenly disperse and grow on and around their surface. In others, researchers cited revetments as a reason for stunted plant growth, and claimed they limited the spread of vegetation.
+
+Revetments also may impact local sea turtle behavior. Turtles are far less likely to nest on a beach with a seawall, revetment, or other large shoreline structure, especially when the structure prevents the turtle from accessing an upper section of the beach. This is because the structure would force the turtle to nest closer to the waterline, where there is higher risk for erosion and negative environmental impact. Additionally, the actual process of building a revetment would entirely disrupt a nesting season. Unmarked nests would be destroyed by heavy machinery, and all turtles would not consider the construction zone beach for nesting for an extended period of time.
+
+In coastal engineering, a tetrapod is a four-legged concrete structure used as an armour unit on breakwaters. The tetrapod's shape is designed to dissipate the force of incoming waves by allowing water to flow around rather than against it, and to reduce displacement by allowing a random distribution of tetrapods to mutually interlock.
+
+According to the U.S. National Park Service, and referring mostly to their employment in the American Civil War, a revetment is defined as a "retaining wall constructed to support the interior slope of a parapet. Made of logs, wood planks, fence rails, fascines, gabions, hurdles, sods, or stones, the revetment provided additional protection from enemy fire, and, most importantly, kept the interior slope nearly vertical. Stone revetments commonly survive. A few log revetments have been preserved due to high resin pine or cypress and porous sandy soils. After an entrenchment was abandoned, many log or rail revetments were scavenged for other uses, causing the interior slope to slump more quickly.  An interior slope will appear more vertical if the parapet eroded with the revetment still in place."
