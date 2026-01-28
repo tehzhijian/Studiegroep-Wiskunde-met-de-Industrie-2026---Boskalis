@@ -78,15 +78,32 @@
     "it can again be simplified without changing its three": "it can again be simplified without changing its three",
     "A connected graph G with the same vertex set as a connected hypergraph H is a host graph for H if every hyperedge of H": "A connected graph G with the same vertex set as a connected hypergraph H is a host graph for H if every hyperedge of H",
     "hypergraph duality": "hypergraph duality",
-    "the study of edge": "the study of edge"
+    "the study of edge": "the study of edge",
+    "the triangle is obtuse": "the triangle is obtuse"
   },
   "variants": {
     "the circumcenter is located on the side of the triangle": [
       "the circumcenter is located inside the triangle",
+      "the circumcenter is located outside the triangle",
+      "the circumcenter is located on the side of the triangle",
+      "the circumcenter is located inside the triangle",
+      "the circumcenter is located outside the triangle",
+      "the circumcenter is located on the side of the triangle",
+      "the circumcenter is located inside the triangle",
+      "the circumcenter is located outside the triangle",
+      "the circumcenter is located on the side of the triangle",
+      "the circumcenter is located inside the triangle",
+      "the circumcenter is located outside the triangle",
+      "the circumcenter is located on the side of the triangle",
+      "the circumcenter is located inside the triangle",
       "the circumcenter is located outside the triangle"
     ],
     "the triangle is acute": [
-      "the triangle is obtuse"
+      "the triangle is obtuse",
+      "the triangle is acute",
+      "the triangle is acute",
+      "the triangle is acute",
+      "the triangle is acute"
     ],
     "any angle of rotation that maps one of the lines into the other": [
       "any angle of rotation that maps one of the lines into the other"
@@ -139,6 +156,17 @@
     "H is a subgraph of G": [
       "G is a supergraph of H",
       "a connected subgraph in G"
+    ],
+    "the angle opposite that side is a right angle": [
+      "the angle opposite that side is a right angle",
+      "the angle opposite that side is a right angle",
+      "the angle opposite that side is a right angle",
+      "the angle opposite that side is a right angle"
+    ],
+    "the triangle is obtuse": [
+      "the triangle is obtuse",
+      "the triangle is obtuse",
+      "the triangle is obtuse"
     ]
   },
   "edges": [
@@ -152,6 +180,13 @@
     [
       "the circumcenter is located on the side of the triangle",
       "the triangle is acute",
+      {
+        "weight": 0.8
+      }
+    ],
+    [
+      "the circumcenter is located on the side of the triangle",
+      "the triangle is obtuse",
       {
         "weight": 0.8
       }
