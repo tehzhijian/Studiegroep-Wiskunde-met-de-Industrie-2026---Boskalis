@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="directed"><node id="climate change"/>
+<node id="rising sea levels"/>
+<node id="coastal flooding"/>
+<node id="deforestation"/>
+<node id="increased atmospheric CO2"/>
+<node id="exercise"/>
+<node id="reduced risk of heart disease"/>
+<node id="one pair of corresponding sides of two triangles are in the same proportion as another pair of corresponding sides, and their included angles have the same measure"/>
+<node id="triangles are similar"/>
+<node id="specifying the lengths of all three sides"/>
+<node id="a triangle will not change shape"/>
+<node id="bent or extended or broken sides"/>
+<node id="a triangle changes shape"/>
+<node id="broken joints"/>
+<node id="structural quadrilaterals"/>
+<node id="built with a diagonal joint"/>
+<node id="splitting the quadrilateral into two rigid triangles"/>
+<node id="tessellated triangles"/>
+<node id="superior strength for cantilevering"/>
+<node id="hexagonal forms"/>
+<node id="strength under compression"/>
+<node id="melting ice caps"/>
+<node id="decreased forest cover"/>
+<node id="improved cardiovascular health"/>
+<node id="arbitrary placement in the plane"/>
+<node id="dependence of points' coordinate values"/>
+<node id="smoking"/>
+<node id="lung cancer"/>
+<node id="smoking damages lung tissue"/>
+<node id="drought"/>
+<node id="wildfires"/>
+<node id="vaccines"/>
+<node id="prevention of disease"/>
+<node id="pollution"/>
+<node id="respiratory problems"/>
+<node id="cancer"/>
+<node id="lifestyle factors including diet and exercise"/>
+<node id="soil erosion"/>
+<node id="decreased agricultural productivity"/>
+<node id="cardiovascular issues"/>
+<node id="angle measurement using a protractor"/>
+<node id="direct physical measurement of angles"/>
+<node id="theoretical calculation of angle size"/>
+<node id="rotation about the vertex of one ray to the other"/>
+<node id="amount of opening between the rays"/>
+<node id="length of the arc that subtends the angle at the centre of a unit circle"/>
+<node id="length s"/>
+<node id="angle's size θ"/>
+<node id="size of the circle"/>
+<node id="ratio of s to radius r or circumference C"/>
+<node id="lifestyle factors including pollution and smoking"/>
+<node id="damaged lung tissue"/>
+<node id="normal vector orientation"/>
+<node id="definition of positive and negative angles"/>
+<node id="formula for the area of a square as the second power of its side length"/>
+<node id="use of the term squaring to mean raising any number to the second power"/>
+<node id="squared integer"/>
+<node id="a square is a regular polygon"/>
+<node id="it has the least perimeter for a given area"/>
+<node id="it encloses the largest area for a given perimeter"/>
+<node id="lack of regular exercise"/>
+<node id="increased risk of heart disease"/>
+<node id="construction of a square with a given side"/>
+<node id="acid rain"/>
+<node id="damage to forests and water bodies"/>
+<node id="adopting a different distance function"/>
+<node id="shapes that would be Euclidean squares become the 'circles"/>
+<node id="squares tilted at 45° to the coordinate axes"/>
+<node id="the 'circles' in taxicab geometry"/>
+<node id="lifestyle choices including smoking"/>
+<node id="canals and drainage ditches have a trapezoidal cross-section"/>
+<node id="common design feature"/>
+<node id="parallelogram being a rhombus"/>
+<node id="area can be expressed using sides B and C and angle"/>
+<node id="base and height"/>
+<node id="area K of a rhombus"/>
+<node id="side length a"/>
+<node id="base of a rhombus"/>
+<node id="internal angle bisectors of a convex quadrilateral are concurrent"/>
+<node id="the quadrilateral is a tangential quadrilateral"/>
+<node id="concyclic intersection points of adjacent angle bisectors"/>
+<node id="orthodiagonal quadrilateral"/>
+<node id="largest area"/>
+<node id="warren truss structures"/>
+<node id="bridges arranged in isosceles triangles"/>
+<node id="sometimes vertical beams included for additional strength"/>
+<node id="three-body problem configuration"/>
+<node id="unbounded oscillations"/>
+<node id="increased risk of lung cancer"/>
+<node id="atomic bombardment"/>
+<node id="seemingly random nature of the motion"/>
+<node id="atoms and molecules exist"/>
+<node id="convincing evidence of Brownian motion"/>
+<node id="Jean Perrin's experiments"/>
+<node id="verification of atomic theory"/>
+<node id="Perrin's work"/>
+<node id="Nobel Prize in Physics"/>
+<node id="sunbeams"/>
+<node id="dancing particles"/>
+<node id="atoms moving"/>
+<node id="small compound bodies in motion"/>
+<node id="larger bodies in motion"/>
+<node id="air currents"/>
+<node id="mingling, tumbling motion of dust particles"/>
+<node id="true Brownian dynamics"/>
+<node id="diffusion constant"/>
+<node id="mean squared displacement of a particle"/>
+<node id="physically measurable quantities"/>
+<node id="dynamic equilibrium"/>
+<node id="experimental determination of Avogadro number"/>
+<node id="particles are pulled down by gravity"/>
+<node id="particles migrate to regions of lower concentration"/>
+<node id="flux"/>
+<node id="given by Fick's law"/>
+<node id="collisions"/>
+<node id="retardation of Brownian particle"/>
+<node id="increase in U"/>
+<node id="perpetual motion of the second type"/>
+<node id="violation of conservation laws"/>
+<node id="changes in the rms velocity of a massive body"/>
+<node id="gravitational forces from surrounding stars"/>
+<node id="Brownian motion in a massive body"/>
+<node id="gravitational force from the massive object"/>
+<node id="nearby stars to move faster"/>
+<node id="d-dimensional Gaussian free field"/>
+<node id="analog of Brownian motion"/>
+<node id="landslides"/>
+<node id="property damage"/>
+<node id="surfactants"/>
+<node id="stabilize films"/>
+<node id="steric repulsion"/>
+<node id="preventing film thinning"/>
+<node id="electrostatic repulsion"/>
+<node id="repulsion between film surfaces"/>
+<node id="film not thinning"/>
+<node id="preventing film bursting"/>
+<node id="inhomogeneous surface concentrations"/>
+<node id="Marangoni forces"/>
+<node id="water evaporation"/>
+<node id="soap film does not last forever"/>
+<node id="film not perfectly horizontal"/>
+<node id="liquid flows toward the bottom"/>
+<node id="gravity"/>
+<node id="film thins at the top"/>
+<node id="film bursts"/>
+<node id="interfering of reflected light waves"/>
+<node id="iridescent colours of a soap film"/>
+<node id="thickness of the film"/>
+<node id="suitable atmospheric humidity and air movements"/>
+<node id="the liquid tends to drain in a vertical soap film"/>
+<node id="liquid drainage"/>
+<node id="the soap film to thin at the top"/>
+<node id="higher electrolyte concentration"/>
+<node id="formation of Newton black films"/>
+<node id="outer soap surfaces snapping together"/>
+<node id="pinching out most of the inner liquid"/>
+<node id="unstable soap film"/>
+<node id="bursting"/>
+<node id="hole in soap film"/>
+<node id="rapid opening"/>
+<node id="surface tension"/>
+<node id="film disappearance"/>
+<node id="inertia"/>
+<node id="slowed hole aperture"/>
+<node id="balance of forces"/>
+<node id="opening velocity"/>
+<node id="minimal area"/>
+<node id="wire frame boundary"/>
+<node id="the projected Gauss map obeys the Cauchy–Riemann equations"/>
+<node id="either the trace vanishes or every point of M is umbilic"/>
+<node id="every point of M is umbilic"/>
+<node id="it is a piece of a sphere"/>
+<node id="discovery of a new surface"/>
+<node id="revival in the 1980s"/>
+<node id="vertex removal"/>
+<node id="disconnection of graph"/>
+<node id="increase in number of components"/>
+<node id="more frequent extreme weather events"/>
+<node id="removal of a cut-set"/>
+<node id="hereditary property of graphs"/>
+<node id="property closed under induced subgraphs"/>
+<node id="monotone property"/>
+<node id="closed under all subgraphs"/>
+<node id="minor-closed property"/>
+<node id="cut whose cut-set has minimum total weight"/>
+<node id="max-flow min-cut theorem"/>
+<node id="Moore bound is met exactly"/>
+<node id="graph is a Moore graph"/>
+<node id="graph is a cage"/>
+<node id="odd vertex degree"/>
+<node id="even number of odd vertices"/>
+<node id="planar graph embedding"/>
+<node id="no crossings per edge"/>
+<node id="fixed embedding"/>
+<node id="plane graph"/>
+<node id="k-planar graph"/>
+<node id="at most k crossings per edge"/>
+<node id="reconstruction conjecture being true"/>
+<node id="all graph properties are recognizable"/>
+<node id="graph property truth"/>
+<node id="recognizable from the deck of the graph"/>
+<node id="vertex splitting"/>
+<node id="two new vertices adjacent to original vertex's neighbors"/>
+<node id="sedentary lifestyle"/>
+<node id="obesity"/>
+<node id="bridge"/>
+<node id="cannot be of class one"/>
+<node id="subgraphs cannot be covered by cycles"/>
+<node id="chosen color for bridge"/>
+<node id="prevents 3-edge-coloring"/>
+<node id="bridgeless"/>
+<node id="required for snarks"/>
+<node id="contracting the three vertices of a triangle"/>
+<node id="simplifying the graph without changing its three-edge-colorability"/>
+<node id="violation of snark definition"/>
+<node id="four-color theorem proven"/>
+<node id="all snarks shown to be non-planar"/>
+<node id="disjoint union of G and H"/>
+<node id="max value of invariant on G or H"/>
+<edge source="climate change" target="rising sea levels">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="climate change" target="melting ice caps">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="climate change" target="more frequent extreme weather events">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="climate change" target="climate change">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="rising sea levels" target="coastal flooding">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="deforestation" target="increased atmospheric CO2">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="deforestation" target="decreased forest cover">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="deforestation" target="soil erosion">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="increased atmospheric CO2" target="climate change">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="exercise" target="reduced risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="exercise" target="improved cardiovascular health">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="one pair of corresponding sides of two triangles are in the same proportion as another pair of corresponding sides, and their included angles have the same measure" target="triangles are similar">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="triangles are similar" target="violation of snark definition">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="specifying the lengths of all three sides" target="a triangle will not change shape">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="bent or extended or broken sides" target="a triangle changes shape">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="broken joints" target="a triangle changes shape">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="structural quadrilaterals" target="built with a diagonal joint">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="built with a diagonal joint" target="splitting the quadrilateral into two rigid triangles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="tessellated triangles" target="superior strength for cantilevering">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="hexagonal forms" target="strength under compression">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="melting ice caps" target="rising sea levels">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="decreased forest cover" target="increased atmospheric CO2">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="improved cardiovascular health" target="reduced risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="arbitrary placement in the plane" target="dependence of points' coordinate values">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="smoking" target="lung cancer">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="smoking" target="smoking damages lung tissue">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="smoking" target="damaged lung tissue">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="smoking damages lung tissue" target="lung cancer">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="smoking damages lung tissue" target="cancer">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="drought" target="wildfires">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="vaccines" target="prevention of disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="pollution" target="respiratory problems">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="pollution" target="cardiovascular issues">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="pollution" target="acid rain">
+  <data key="d0">0.75</data>
+</edge>
+<edge source="lifestyle factors including diet and exercise" target="reduced risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="lifestyle factors including diet and exercise" target="increased risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="soil erosion" target="decreased agricultural productivity">
+  <data key="d0">0.75</data>
+</edge>
+<edge source="soil erosion" target="landslides">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="angle measurement using a protractor" target="direct physical measurement of angles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="theoretical calculation of angle size" target="direct physical measurement of angles">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="rotation about the vertex of one ray to the other" target="direct physical measurement of angles">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="amount of opening between the rays" target="direct physical measurement of angles">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="length of the arc that subtends the angle at the centre of a unit circle" target="direct physical measurement of angles">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="length s" target="angle's size θ">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="size of the circle" target="length s">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="ratio of s to radius r or circumference C" target="angle's size θ">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="lifestyle factors including pollution and smoking" target="respiratory problems">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="damaged lung tissue" target="lung cancer">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="damaged lung tissue" target="cancer">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="damaged lung tissue" target="increased risk of lung cancer">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="normal vector orientation" target="definition of positive and negative angles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="formula for the area of a square as the second power of its side length" target="use of the term squaring to mean raising any number to the second power">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="squared integer" target="squared integer">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="a square is a regular polygon" target="it has the least perimeter for a given area">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="a square is a regular polygon" target="it encloses the largest area for a given perimeter">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="lack of regular exercise" target="increased risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="construction of a square with a given side" target="a square is a regular polygon">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="acid rain" target="damage to forests and water bodies">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="adopting a different distance function" target="shapes that would be Euclidean squares become the 'circles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="squares tilted at 45° to the coordinate axes" target="the 'circles' in taxicab geometry">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="lifestyle choices including smoking" target="lung cancer">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="lifestyle choices including smoking" target="increased risk of lung cancer">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="lifestyle choices including smoking" target="damaged lung tissue">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="lifestyle choices including smoking" target="increased risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="canals and drainage ditches have a trapezoidal cross-section" target="common design feature">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="parallelogram being a rhombus" target="area can be expressed using sides B and C and angle">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="base and height" target="area K of a rhombus">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="side length a" target="base of a rhombus">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="internal angle bisectors of a convex quadrilateral are concurrent" target="the quadrilateral is a tangential quadrilateral">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="concyclic intersection points of adjacent angle bisectors" target="the quadrilateral is a tangential quadrilateral">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="orthodiagonal quadrilateral" target="largest area">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="warren truss structures" target="bridges arranged in isosceles triangles">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="warren truss structures" target="sometimes vertical beams included for additional strength">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="three-body problem configuration" target="unbounded oscillations">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="atomic bombardment" target="seemingly random nature of the motion">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="atoms and molecules exist" target="convincing evidence of Brownian motion">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="convincing evidence of Brownian motion" target="atoms and molecules exist">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="Jean Perrin's experiments" target="verification of atomic theory">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="Perrin's work" target="Nobel Prize in Physics">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="sunbeams" target="dancing particles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="atoms moving" target="small compound bodies in motion">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="small compound bodies in motion" target="larger bodies in motion">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="air currents" target="mingling, tumbling motion of dust particles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="true Brownian dynamics" target="mingling, tumbling motion of dust particles">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="true Brownian dynamics" target="changes in the rms velocity of a massive body">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="diffusion constant" target="mean squared displacement of a particle">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="physically measurable quantities" target="diffusion constant">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="dynamic equilibrium" target="experimental determination of Avogadro number">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="particles are pulled down by gravity" target="particles migrate to regions of lower concentration">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="flux" target="given by Fick's law">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="collisions" target="retardation of Brownian particle">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="increase in U" target="collisions">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="perpetual motion of the second type" target="violation of conservation laws">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="gravitational forces from surrounding stars" target="Brownian motion in a massive body">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="gravitational force from the massive object" target="nearby stars to move faster">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="d-dimensional Gaussian free field" target="analog of Brownian motion">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="landslides" target="property damage">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="surfactants" target="stabilize films">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="steric repulsion" target="preventing film thinning">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="electrostatic repulsion" target="preventing film thinning">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="repulsion between film surfaces" target="preventing film thinning">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="film not thinning" target="preventing film bursting">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="inhomogeneous surface concentrations" target="Marangoni forces">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="Marangoni forces" target="inhomogeneous surface concentrations">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="water evaporation" target="soap film does not last forever">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="film not perfectly horizontal" target="liquid flows toward the bottom">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="liquid flows toward the bottom" target="film thins at the top">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="gravity" target="liquid flows toward the bottom">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="gravity" target="the liquid tends to drain in a vertical soap film">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="film thins at the top" target="film bursts">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="interfering of reflected light waves" target="iridescent colours of a soap film">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="thickness of the film" target="iridescent colours of a soap film">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="suitable atmospheric humidity and air movements" target="soap film does not last forever">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="liquid drainage" target="the soap film to thin at the top">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="higher electrolyte concentration" target="formation of Newton black films">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="outer soap surfaces snapping together" target="pinching out most of the inner liquid">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="unstable soap film" target="bursting">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="unstable soap film" target="minimal area">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="hole in soap film" target="rapid opening">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="surface tension" target="film disappearance">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="inertia" target="slowed hole aperture">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="balance of forces" target="opening velocity">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="wire frame boundary" target="unstable soap film">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="the projected Gauss map obeys the Cauchy–Riemann equations" target="either the trace vanishes or every point of M is umbilic">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="every point of M is umbilic" target="it is a piece of a sphere">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="discovery of a new surface" target="revival in the 1980s">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="vertex removal" target="disconnection of graph">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="vertex removal" target="increase in number of components">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="removal of a cut-set" target="disconnection of graph">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="hereditary property of graphs" target="property closed under induced subgraphs">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="monotone property" target="closed under all subgraphs">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="minor-closed property" target="minor-closed property">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="cut whose cut-set has minimum total weight" target="max-flow min-cut theorem">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="Moore bound is met exactly" target="graph is a Moore graph">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="graph is a Moore graph" target="graph is a cage">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="odd vertex degree" target="even number of odd vertices">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="even number of odd vertices" target="subgraphs cannot be covered by cycles">
+  <data key="d0">0.85</data>
+</edge>
+<edge source="planar graph embedding" target="no crossings per edge">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="fixed embedding" target="plane graph">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="k-planar graph" target="at most k crossings per edge">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="reconstruction conjecture being true" target="all graph properties are recognizable">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="graph property truth" target="recognizable from the deck of the graph">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="vertex splitting" target="two new vertices adjacent to original vertex's neighbors">
+  <data key="d0">0.95</data>
+</edge>
+<edge source="sedentary lifestyle" target="increased risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="obesity" target="increased risk of heart disease">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="bridge" target="cannot be of class one">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="chosen color for bridge" target="prevents 3-edge-coloring">
+  <data key="d0">0.8</data>
+</edge>
+<edge source="bridgeless" target="required for snarks">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="contracting the three vertices of a triangle" target="simplifying the graph without changing its three-edge-colorability">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="four-color theorem proven" target="all snarks shown to be non-planar">
+  <data key="d0">0.9</data>
+</edge>
+<edge source="disjoint union of G and H" target="max value of invariant on G or H">
+  <data key="d0">0.9</data>
+</edge>
+</graph></graphml>

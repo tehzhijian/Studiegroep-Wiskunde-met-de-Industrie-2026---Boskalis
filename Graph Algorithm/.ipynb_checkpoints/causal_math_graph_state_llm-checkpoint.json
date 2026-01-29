@@ -11,27 +11,15 @@
       "the circumcenter is located outside the triangle",
       "the circumcenter is located on the side of the triangle",
       "the circumcenter is located inside the triangle",
-      "the circumcenter is located outside the triangle",
-      "the circumcenter is located on the side of the triangle",
-      "the circumcenter is located inside the triangle",
-      "the circumcenter is located outside the triangle",
-      "the circumcenter is located on the side of the triangle",
-      "the circumcenter is located inside the triangle",
       "the circumcenter is located outside the triangle"
     ],
     "the angle opposite that side is a right angle": [
-      "the angle opposite that side is a right angle",
-      "the angle opposite that side is a right angle",
       "the angle opposite that side is a right angle"
     ],
     "the triangle is acute": [
-      "the triangle is acute",
-      "the triangle is acute",
       "the triangle is acute"
     ],
     "the triangle is obtuse": [
-      "the triangle is obtuse",
-      "the triangle is obtuse",
       "the triangle is obtuse"
     ]
   },

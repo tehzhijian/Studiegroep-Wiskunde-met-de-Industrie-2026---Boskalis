@@ -1,0 +1,3 @@
+question,answer,context_recall,context_precision,rouge1,rougeL
+How is a triangle defined in Euclidean geometry?,Error in generation.,0.0,0,0.0,0.0
+What are the characteristics of a square?,Error in generation.,0.0,0,0.0,0.0
